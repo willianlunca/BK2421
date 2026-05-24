@@ -213,34 +213,6 @@ Selecione:
 3dmodels/BK2421.step
 ```
 
----
-
-# 🖼️ Imagens
-
-## Símbolo
-
-![Símbolo](images/symbol.png)
-
----
-
-## Footprint
-
-![Footprint](images/footprint.png)
-
----
-
-## Renderização PCB
-
-![PCB](images/pcb_render.png)
-
----
-
-## Montagem 3D
-
-![3D](images/assembled.png)
-
----
-
 # 📐 Recomendações de Layout RF
 
 Projetos RF exigem cuidados especiais no PCB.
