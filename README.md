@@ -1,4 +1,4 @@
-# BK2421 KiCad Library
+# BK2421 KiCad Biblioteca
 
 <div align="center">
 
